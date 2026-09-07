@@ -16,7 +16,7 @@ My current research studies differential gene expression in multi-subject single
 
 We distinguish subject-level and cell-level condition assignment. Using an M-estimation framework, Taylor expansion, and variance decomposition, we show why the relevant variance scale can differ between the two designs—*O*(1/*n*) at the subject level and *O*(1/*N*) at the cell level. This distinction affects Type I and Type II error control.
 
-My contributions include the study design, label-assignment framework, theoretical derivations, simulation analysis, and interpretation of the testing behavior.
+My contributions include the study design, label-assignment framework, theoretical derivations and interpretation of the testing behavior.
 
 <p class="paper-links">
   <a href="{{ '/publications/' | relative_url }}">Publication details</a>
