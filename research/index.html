@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#1a1a1a">
+  <meta name="description" content="Research interests and current work of Hanshin Lee.">
+  <link rel="canonical" href="https://leehans13.github.io/research/">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
+  <title>Research | Hanshin Lee</title>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
+    <div class="wrapper header-inner">
+      <a class="site-title" href="/">Hanshin Lee</a>
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="/">About</a>
+        <a href="/research/" aria-current="page">Research</a>
+        <a href="/publications/">Publications</a>
+        <a href="/cv/">CV</a>
+        <a href="/contact/">Contact</a>
+        <a href="/gallery/">Gallery</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content" class="page-content">
+    <div class="wrapper">
+      <h1>Research</h1>
+
+      <section class="content-section">
+        <h2>Current work</h2>
+        <p class="lead">Design-aware statistical inference for dependent data</p>
+        <p>
+          My current research studies differential gene expression in multi-subject
+          single-cell RNA sequencing data. The central question is statistical:
+          when observations are nested within subjects, how should the assignment
+          of comparison labels determine the sampling unit and the uncertainty of
+          an estimator?
+        </p>
+        <p>
+          We distinguish subject-level and cell-level condition assignment. Using an
+          M-estimation framework, Taylor expansion, and variance decomposition, we
+          show why the relevant variance scale can differ between the two designs—
+          <em>O</em>(1/<em>n</em>) at the subject level and <em>O</em>(1/<em>N</em>) at
+          the cell level. This distinction affects Type I and Type II error control.
+        </p>
+        <p>
+          My contributions include the study design, label-assignment framework,
+          theoretical derivations, simulation analysis, and interpretation of the
+          testing behavior.
+        </p>
+        <p class="paper-links">
+          <a href="/publications/">Publication details</a>
+          <a href="https://github.com/leehans13/Treatment-Label-Assignment" target="_blank" rel="noreferrer">Reproducibility package ↗</a>
+        </p>
+      </section>
+
+      <section class="content-section">
+        <h2>Broader interests</h2>
+        <ul class="plain-list">
+          <li>Statistical machine learning</li>
+          <li>Robust and reliable inference</li>
+          <li>High-dimensional and structured data</li>
+          <li>Statistical methods for economics and finance</li>
+        </ul>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrapper"><p>© 2026 Hanshin Lee</p><p>Last updated September 2026</p></div>
+  </footer>
+</body>
+</html>
+
