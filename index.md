@@ -10,7 +10,7 @@ permalink: /
     <h1>Welcome!</h1>
     
     <p class="lead">I am a graduate researcher interested in statistical methodology, machine learning, and quantitative applications in economics and finance.</p>
-    <p>I currently work with Prof. Minwoo Kim in Statistics. My research examines how study design and dependence structures determine the appropriate unit of inference. In my current project, I use M-estimation and variance decomposition to study differential-expression testing in multi-subject single-cell data.</p>
+    <p>I currently work with Prof. Minwoo Kim in Statistics. My research examines how study design and dependence structures determine the appropriate unit of inference. </p>
     <p>My academic path from physics to data science has shaped my interest in mathematical modeling and reliable inference. </p>
 
     <h2>Research interests</h2>
