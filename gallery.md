@@ -25,6 +25,6 @@ permalink: /gallery/
       <source src="{{ '/assets/media/playing-tennis.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video element.
     </video>
-    <figcaption>Playing tennis</figcaption>
+    <figcaption>Playing tennis with father</figcaption>
   </figure>
 </div>
