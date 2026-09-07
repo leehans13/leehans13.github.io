@@ -7,7 +7,7 @@ permalink: /contact/
 
 # Contact
 
-<p class="lead">I welcome conversations about statistical research and doctoral study.</p>
+<p class="lead">I'm always open to a chat.</p>
 
 <ul class="contact-list">
   <li><span class="contact-label">Email</span><a href="mailto:hanshin3018@gmail.com">hanshin3018@gmail.com</a></li>
