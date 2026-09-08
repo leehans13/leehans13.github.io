@@ -47,8 +47,7 @@ permalink: /cv/
 <section class="cv-block">
   <h2>Skills</h2>
   <div>
-    <p><strong>Programming:</strong> Python, R</p>
-    <p><strong>Typesetting:</strong> LaTeX</p>
+    <p><strong>Programming:</strong> Python, R, Latex</p>
     <p><strong>Languages:</strong> Korean, English</p>
   </div>
 </section>
