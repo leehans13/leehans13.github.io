@@ -7,7 +7,6 @@ permalink: /publications/
 
 # Publications
 
-<p class="muted">Manuscripts and research outputs.</p>
 
 <article class="paper-item">
   <p class="meta">Under review · <em>Bioinformatics</em></p>
