@@ -25,11 +25,5 @@ My contributions include the study design, label-assignment framework, theoretic
 </section>
 
 <section class="content-section" markdown="1">
-## Broader interests
 
-- Statistical machine learning
-- Robust and reliable inference
-- High-dimensional and structured data
-- Statistical methods for economics and finance
-</section>
 
