@@ -18,7 +18,7 @@ permalink: /cv/
       <p class="meta">September 2025 – Present</p>
     </div>
     <div class="cv-entry">
-      <h3>B.S. in Physics, Minor in Economics</h3>
+      <h3>B.S. in Physics (Minor in Economics)</h3>
       <p>Pusan National University</p>
       <p class="meta">March 2019 – August 2025</p>
     </div>
@@ -31,7 +31,6 @@ permalink: /cv/
     <h3>Graduate Researcher</h3>
     <p>Pusan National University · Advisor: Prof. Minwoo Kim</p>
     <p class="meta">September 2025 – Present</p>
-    <p>Statistical inference for dependent, multi-subject single-cell data.</p>
   </div>
 </section>
 
