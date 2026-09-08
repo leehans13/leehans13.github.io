@@ -35,15 +35,6 @@ permalink: /cv/
 </section>
 
 <section class="cv-block">
-  <h2>Manuscript</h2>
-  <div class="cv-entry">
-    <h3>Condition assignment determines the appropriate differential gene expression test in single-cell RNA sequencing studies</h3>
-    <p>Hanshin Lee, Hanbin Lee, Buhm Han, and Minwoo Kim</p>
-    <p class="meta">Under review at <em>Bioinformatics</em></p>
-  </div>
-</section>
-
-<section class="cv-block">
   <h2>Skills</h2>
   <div>
     <p><strong>Programming:</strong> Python, R, Latex</p>
