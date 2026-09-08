@@ -7,8 +7,6 @@ permalink: /gallery/
 
 # Gallery
 
-<p class="muted">A few moments outside research.</p>
-
 <div class="gallery-grid">
   <figure class="gallery-item">
     <img src="{{ '/assets/media/happy-days.jpg' | relative_url }}" alt="Hanshin Lee standing in a garden of orange flowers" loading="lazy">
