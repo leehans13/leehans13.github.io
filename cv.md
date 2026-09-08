@@ -7,7 +7,7 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-<a class="button-link" href="{{ '/assets/HanshinLee_CV_latest.pdf' | relative_url }}" target="_blank">Download full CV (PDF)</a>
+<a class="button-link" href="{{ '/assets/HanshinLee_CV.pdf' | relative_url }}" target="_blank">Download full CV (PDF)</a>
 
 <section class="cv-block">
   <h2>Education</h2>
